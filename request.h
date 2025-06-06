@@ -1,0 +1,1 @@
+- (void)aFucntion:(NSString *)aStr;
